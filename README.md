@@ -19,11 +19,11 @@ Projeto desenvolvido para os alunos da Kenzie Academy Brasil, com a finalidade d
 
 ### ▪️ Baixando projeto e instalando dependências
 
-Para utilizar o projeto basta fazer o fork do repositório em computador e ao baixar realizar o download das dependências do site com o comando: `yarn`
+Para utilizar o projeto basta fazer o fork do repositório em computador e ao baixar realizar o download das dependências do site com o comando: `npm install`
 
 ### ▪️ Iniciando visualização do projeto
 
-Ao finalizar o download das dependências, inicie a visualização do projeto em ambiente de desenvolvimento com o comando: `yarn dev`
+Ao finalizar o download das dependências, inicie a visualização do projeto em ambiente de desenvolvimento com o comando: `npm run dev`
 
   
   
@@ -52,3 +52,5 @@ Segue as informações sobre cada um:
         *   **linkedinUser:** _Inserindo o usuário do seu linkedin será gerado um link para que os usuários acessem seu LinkedIn_
             
         *   **whatsappNumber:** _Nessa propriedade você precisará inserir seu DDD junto com o seu número do whatsapp, assim quem clicar no link "whatsapp" irá ser enviado para o seu contato já com uma mensagem pré-definida_
+
+
