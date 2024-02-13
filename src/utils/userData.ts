@@ -3,7 +3,7 @@ export const userData = {
 	githubUser: "jefitlopes",
 	linkedinUser: "jefitlopes",
 	whatsappNumber: "+5512997556883",
-	emailUser: "jefitlopes@gmail.com",
+	emailUser: "jefitlopes@jefitlopes.com",
 	instagramUser: "jefitlopes",
 	facebookUser: "jefitlopes",
 };
